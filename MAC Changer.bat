@@ -3,14 +3,14 @@ SETLOCAL ENABLEDELAYEDEXPANSION
 SETLOCAL ENABLEEXTENSIONS
 
 :: Set the title of the Command Prompt window
-TITLE ZOLX Mac Changer
+TITLE Optical Mac Changer
 
 :: Set text color
 COLOR 3
 
 :MENU
 ECHO.
-ECHO ZOLX Mac Changer Changer V1.5
+ECHO Optical Mac Changer Changer V1.5
 ECHO MUST RUN AS ADMIN!
 ECHO.
 COLOR 3
